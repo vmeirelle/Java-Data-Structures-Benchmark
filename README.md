@@ -1,5 +1,5 @@
 # structures-from-csv
- analyze different type of data structures working with a csv file 
+ Analyze different type of data structures working with a csv file 
  
  This program deals with a csv data file (random generated from mockaroo)
  You can print, sort, find and delete by id the imported data.
